@@ -1,6 +1,6 @@
 # ALS-Advacnced-Login-System-
 
-Project Name: ALS (Advanced Login System)
+# Project Name: ALS (Advanced Login System)
 Author: Habban Madani
 
 Description:
